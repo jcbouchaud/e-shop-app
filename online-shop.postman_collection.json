@@ -22,13 +22,13 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{ \"title\": \"Test\" }"
+							"raw": "{ \"title\": \"Electronics\" }"
 						},
 						"url": {
-							"raw": "https://online-shop-reacteur.herokuapp.com/department/create",
+							"raw": "https://e-shop-app-back.herokuapp.com/department/create",
 							"protocol": "https",
 							"host": [
-								"online-shop-reacteur",
+								"e-shop-app-back",
 								"herokuapp",
 								"com"
 							],
@@ -60,10 +60,10 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://online-shop-reacteur.herokuapp.com/department",
+							"raw": "https://e-shop-app-back.herokuapp.com/department",
 							"protocol": "https",
 							"host": [
-								"online-shop-reacteur",
+								"e-shop-app-back",
 								"herokuapp",
 								"com"
 							],
@@ -91,10 +91,10 @@
 							"raw": "{ \"id\": \"\",\n\"title\": \"\"}"
 						},
 						"url": {
-							"raw": "https://online-shop-reacteur.herokuapp.com/department/update",
+							"raw": "https://e-shop-app-back.herokuapp.com/department/update",
 							"protocol": "https",
 							"host": [
-								"online-shop-reacteur",
+								"e-shop-app-back",
 								"herokuapp",
 								"com"
 							],
@@ -123,10 +123,10 @@
 							"raw": "{ \"id\": \"5cc1d5f8d5c4c10017dce850\"}"
 						},
 						"url": {
-							"raw": "https://online-shop-reacteur.herokuapp.com/department/delete/",
+							"raw": "https://e-shop-app-back.herokuapp.com/department/delete/",
 							"protocol": "https",
 							"host": [
-								"online-shop-reacteur",
+								"e-shop-app-back",
 								"herokuapp",
 								"com"
 							],
@@ -161,10 +161,10 @@
 							"raw": "{ \"title\": \"TVs\",\n\"description\": \"\",\n\"department\": \"Electronics\"}"
 						},
 						"url": {
-							"raw": "https://online-shop-reacteur.herokuapp.com/category/create",
+							"raw": "https://e-shop-app-back.herokuapp.com/category/create",
 							"protocol": "https",
 							"host": [
-								"online-shop-reacteur",
+								"e-shop-app-back",
 								"herokuapp",
 								"com"
 							],
@@ -196,10 +196,10 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://online-shop-reacteur.herokuapp.com/category",
+							"raw": "https://e-shop-app-back.herokuapp.com/category",
 							"protocol": "https",
 							"host": [
-								"online-shop-reacteur",
+								"e-shop-app-back",
 								"herokuapp",
 								"com"
 							],
@@ -227,10 +227,10 @@
 							"raw": "{\n\"title\": \"Camera & Photo\",\n\"description\": \"test describe\",\n\"department\": \"5cbf00e150cee951fab47717\"}"
 						},
 						"url": {
-							"raw": "https://online-shop-reacteur.herokuapp.com/update/?id=5cbf035c9ca955521c8206aa",
+							"raw": "https://e-shop-app-back.herokuapp.com/update/?id=5cbf035c9ca955521c8206aa",
 							"protocol": "https",
 							"host": [
-								"online-shop-reacteur",
+								"e-shop-app-back",
 								"herokuapp",
 								"com"
 							],
@@ -265,10 +265,10 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://online-shop-reacteur.herokuapp.com/category/delete/?id=5cc1d7b9e415720017d73585",
+							"raw": "https://e-shop-app-back.herokuapp.com/category/delete/?id=5cc1d7b9e415720017d73585",
 							"protocol": "https",
 							"host": [
-								"online-shop-reacteur",
+								"e-shop-app-back",
 								"herokuapp",
 								"com"
 							],
@@ -309,10 +309,10 @@
 							"raw": "{ \"title\": \"Samsung \",\n\"description\": \"Gris\",\n\"price\": \"499\",\n\"category\": \"TVs\"}"
 						},
 						"url": {
-							"raw": "https://online-shop-reacteur.herokuapp.com/product/create",
+							"raw": "https://e-shop-app-back.herokuapp.com/product/create",
 							"protocol": "https",
 							"host": [
-								"online-shop-reacteur",
+								"e-shop-app-back",
 								"herokuapp",
 								"com"
 							],
@@ -344,10 +344,10 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://online-shop-reacteur.herokuapp.com/product?",
+							"raw": "https://e-shop-app-back.herokuapp.com/product?",
 							"protocol": "https",
 							"host": [
-								"online-shop-reacteur",
+								"e-shop-app-back",
 								"herokuapp",
 								"com"
 							],
@@ -375,10 +375,10 @@
 							"raw": "{\n\"title\": \"XBOX\",\n\"description\": \" \",\n\"price\": \"449\",\n\"category\": \"5cbf05cf9ca955521c8206b0\" }"
 						},
 						"url": {
-							"raw": "https://online-shop-reacteur.herokuapp.com/?id=5cbf46a6611101566d5e2433",
+							"raw": "https://e-shop-app-back.herokuapp.com/?id=5cbf46a6611101566d5e2433",
 							"protocol": "https",
 							"host": [
-								"online-shop-reacteur",
+								"e-shop-app-back",
 								"herokuapp",
 								"com"
 							],
@@ -412,10 +412,10 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://online-shop-reacteur.herokuapp.com/product/delete/?id=5cc1d8c48e56920017a4e006",
+							"raw": "https://e-shop-app-back.herokuapp.com/product/delete/?id=5cc1d8c48e56920017a4e006",
 							"protocol": "https",
 							"host": [
-								"online-shop-reacteur",
+								"e-shop-app-back",
 								"herokuapp",
 								"com"
 							],
@@ -456,10 +456,10 @@
 							"raw": "{ \"product\": \"5cc1db82c042bd00172237a2\",\n\"rating\": 5,\n\"comment\": \"Nul !\",\n\"username\": \"jcbouchaud\"}"
 						},
 						"url": {
-							"raw": "https://online-shop-reacteur.herokuapp.com/review/create",
+							"raw": "https://e-shop-app-back.herokuapp.com/review/create",
 							"protocol": "https",
 							"host": [
-								"online-shop-reacteur",
+								"e-shop-app-back",
 								"herokuapp",
 								"com"
 							],
@@ -491,10 +491,10 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://online-shop-reacteur.herokuapp.com/review/",
+							"raw": "https://e-shop-app-back.herokuapp.com/review/",
 							"protocol": "https",
 							"host": [
-								"online-shop-reacteur",
+								"e-shop-app-back",
 								"herokuapp",
 								"com"
 							],
@@ -523,10 +523,10 @@
 							"raw": "{ \"rating\": 5,\n\"comment\": \"Top\"}"
 						},
 						"url": {
-							"raw": "https://online-shop-reacteur.herokuapp.com/review/update?id=5cc1d9408e56920017a4e00c",
+							"raw": "https://e-shop-app-back.herokuapp.com/review/update?id=5cc1d9408e56920017a4e00c",
 							"protocol": "https",
 							"host": [
-								"online-shop-reacteur",
+								"e-shop-app-back",
 								"herokuapp",
 								"com"
 							],
@@ -561,10 +561,10 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://online-shop-reacteur.herokuapp.com/review/delete?id=5cc1dbe7c042bd00172237a7",
+							"raw": "https://e-shop-app-back.herokuapp.com/review/delete?id=5cc1dbe7c042bd00172237a7",
 							"protocol": "https",
 							"host": [
-								"online-shop-reacteur",
+								"e-shop-app-back",
 								"herokuapp",
 								"com"
 							],
